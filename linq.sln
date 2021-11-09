@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linq", "linq\linq.csproj", "{DE51A8E8-A93A-4986-8CF8-D281E71110A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linq.unittest", "linq.unittest\linq.unittest.csproj", "{FA633EFE-B709-4F9F-BF34-CB947B0A95D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE51A8E8-A93A-4986-8CF8-D281E71110A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE51A8E8-A93A-4986-8CF8-D281E71110A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE51A8E8-A93A-4986-8CF8-D281E71110A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE51A8E8-A93A-4986-8CF8-D281E71110A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA633EFE-B709-4F9F-BF34-CB947B0A95D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA633EFE-B709-4F9F-BF34-CB947B0A95D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA633EFE-B709-4F9F-BF34-CB947B0A95D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA633EFE-B709-4F9F-BF34-CB947B0A95D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
