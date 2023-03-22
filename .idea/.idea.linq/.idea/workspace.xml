@@ -4,7 +4,29 @@
     <projectFile>linq/linq.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f9f89e0-59f8-4e1e-9f19-7ca0aa429b17" name="Default Changelist" comment="" />
+    <list default="true" id="7f9f89e0-59f8-4e1e-9f19-7ca0aa429b17" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.linq/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.linq/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.linq/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.linq/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.linq/.idea/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.linq/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.linq/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linq.unittest/obj/Debug/netcoreapp3.1/linq.unittest.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/linq.unittest/obj/Debug/netcoreapp3.1/linq.unittest.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linq.unittest/obj/linq.unittest.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/linq.unittest/obj/linq.unittest.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linq.unittest/obj/linq.unittest.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/linq.unittest/obj/linq.unittest.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linq.unittest/obj/linq.unittest.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/linq.unittest/obj/linq.unittest.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linq.unittest/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/linq.unittest/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linq.unittest/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/linq.unittest/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linq.unittest/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/linq.unittest/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linq.unittest/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/linq.unittest/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linq/obj/Debug/netcoreapp3.1/linq.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/linq/obj/Debug/netcoreapp3.1/linq.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linq/obj/linq.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/linq/obj/linq.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linq/obj/linq.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/linq/obj/linq.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linq/obj/linq.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/linq/obj/linq.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linq/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/linq/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linq/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/linq/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linq/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/linq/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linq/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/linq/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,19 +48,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.CSharpInteractiveConfiguration" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\serbi\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\serbi\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\serbi\\AppData\\Local\\Symbols\\src&quot;
+    ]
+  }
+}</component>
   <component name="RunManager">
     <configuration name="linq" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -69,6 +93,8 @@
       <updated>1606998377613</updated>
       <workItem from="1606998386225" duration="2824000" />
       <workItem from="1608110622285" duration="552000" />
+      <workItem from="1679485492176" duration="627000" />
+      <workItem from="1679491195247" duration="33000" />
     </task>
     <servers />
   </component>
