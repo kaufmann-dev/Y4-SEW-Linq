@@ -1,4 +1,6 @@
-﻿namespace linq.data
+﻿using System.Collections.Generic;
+
+namespace linq.data
 {
     public class Dish {
 

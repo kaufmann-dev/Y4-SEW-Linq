@@ -22,6 +22,11 @@ namespace linq.data
                         EIngredient.VEAL, EIngredient.BREAD_CRUMBS, EIngredient.FLOUR, EIngredient.EGG,
                         EIngredient.MILK, EIngredient.BUTTER, EIngredient.LEMON, EIngredient.SALT
                     }),
+                new Dish("Reis", 400, EDishType.VEGETARIAN,
+                        new List<EIngredient>()
+                        {
+                            EIngredient.WATER
+                    }),
                 new Dish("Risotto", 530, EDishType.VEGETARIAN,
                     new List<EIngredient>() {
                         EIngredient.OIL, EIngredient.MUSHROOM, EIngredient.SHALLOT, EIngredient.SALT,

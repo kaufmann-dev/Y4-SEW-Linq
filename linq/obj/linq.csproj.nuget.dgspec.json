@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\serbi\\Documents\\School projects\\linq\\linq\\linq.csproj": {}
+    "C:\\Users\\David\\Documents\\School projects\\linq\\linq\\linq.csproj": {}
   },
   "projects": {
-    "C:\\Users\\serbi\\Documents\\School projects\\linq\\linq\\linq.csproj": {
+    "C:\\Users\\David\\Documents\\School projects\\linq\\linq\\linq.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\serbi\\Documents\\School projects\\linq\\linq\\linq.csproj",
+        "projectUniqueName": "C:\\Users\\David\\Documents\\School projects\\linq\\linq\\linq.csproj",
         "projectName": "linq",
-        "projectPath": "C:\\Users\\serbi\\Documents\\School projects\\linq\\linq\\linq.csproj",
-        "packagesPath": "C:\\Users\\serbi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\serbi\\Documents\\School projects\\linq\\linq\\obj\\",
+        "projectPath": "C:\\Users\\David\\Documents\\School projects\\linq\\linq\\linq.csproj",
+        "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\David\\Documents\\School projects\\linq\\linq\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\serbi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -71,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.407\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

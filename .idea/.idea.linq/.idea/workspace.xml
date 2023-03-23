@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f9f89e0-59f8-4e1e-9f19-7ca0aa429b17" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.linq/.idea/contentModel.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.linq/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.linq/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.linq/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.linq/.idea/riderModule.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/linq/Enums/EIngredient.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linq/data/Transaction.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.linq/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.linq/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linq.unittest/UnitTest1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/linq.unittest/UnitTest1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linq.unittest/linq.unittest.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/linq.unittest/linq.unittest.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linq.unittest/obj/Debug/netcoreapp3.1/linq.unittest.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/linq.unittest/obj/Debug/netcoreapp3.1/linq.unittest.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/linq.unittest/obj/Debug/netcoreapp3.1/linq.unittest.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/linq.unittest/obj/Debug/netcoreapp3.1/linq.unittest.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linq.unittest/obj/Debug/netcoreapp3.1/linq.unittest.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/linq.unittest/obj/Debug/netcoreapp3.1/linq.unittest.csproj.AssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/linq.unittest/obj/linq.unittest.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/linq.unittest/obj/linq.unittest.csproj.nuget.dgspec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/linq.unittest/obj/linq.unittest.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/linq.unittest/obj/linq.unittest.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/linq.unittest/obj/linq.unittest.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/linq.unittest/obj/linq.unittest.csproj.nuget.g.targets" afterDir="false" />
@@ -18,10 +20,15 @@
       <change beforePath="$PROJECT_DIR$/linq.unittest/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/linq.unittest/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/linq.unittest/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/linq.unittest/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/linq.unittest/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/linq.unittest/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linq/data/DataRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/linq/data/DataRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linq/data/Dish.cs" beforeDir="false" afterPath="$PROJECT_DIR$/linq/data/Dish.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linq/data/ECities.cs" beforeDir="false" afterPath="$PROJECT_DIR$/linq/Enums/ECities.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linq/data/EDishType.cs" beforeDir="false" afterPath="$PROJECT_DIR$/linq/Enums/EDishType.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linq/data/linq.data.cs" beforeDir="false" afterPath="$PROJECT_DIR$/linq/data/Trader.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linq/obj/Debug/netcoreapp3.1/linq.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/linq/obj/Debug/netcoreapp3.1/linq.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/linq/obj/Debug/netcoreapp3.1/linq.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/linq/obj/Debug/netcoreapp3.1/linq.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/linq/obj/linq.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/linq/obj/linq.csproj.nuget.dgspec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/linq/obj/linq.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/linq/obj/linq.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linq/obj/linq.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/linq/obj/linq.csproj.nuget.g.targets" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/linq/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/linq/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/linq/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/linq/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/linq/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/linq/obj/project.packagespec.json" afterDir="false" />
@@ -31,6 +38,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/nunit/nunit/c933a883ea25263ec575a654dae69fa38000edd9/src/NUnitFramework/framework/Assert.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -42,6 +52,9 @@
       <option value="$PROJECT_DIR$/linq/data/DataRepository.cs" />
       <option value="$PROJECT_DIR$/linq.unittest/UnitTest1.cs" />
     </changedPaths>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="1l99KOXsKLOnF5PIiY6AyAzMQT2" />
   <component name="ProjectViewState">
@@ -57,13 +70,13 @@
   },
   &quot;keyToStringList&quot;: {
     &quot;rider.external.source.directories&quot;: [
-      &quot;C:\\Users\\serbi\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\DecompilerCache&quot;,
-      &quot;C:\\Users\\serbi\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\SourcesCache&quot;,
-      &quot;C:\\Users\\serbi\\AppData\\Local\\Symbols\\src&quot;
+      &quot;C:\\Users\\David\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\David\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\David\\AppData\\Local\\Symbols\\src&quot;
     ]
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected=".NET Project.linq">
     <configuration name="linq" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -95,6 +108,8 @@
       <workItem from="1608110622285" duration="552000" />
       <workItem from="1679485492176" duration="627000" />
       <workItem from="1679491195247" duration="33000" />
+      <workItem from="1679496100555" duration="6249000" />
+      <workItem from="1679506517847" duration="2084000" />
     </task>
     <servers />
   </component>
@@ -105,5 +120,24 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/linq.unittest/UnitTest1.cs</url>
+          <line>109</line>
+          <properties documentPath="C:\Users\David\Documents\School projects\linq\linq.unittest\UnitTest1.cs" initialLine="109" containingFunctionPresentation="method 'GroupDishByTypeCountingElements'">
+            <startOffsets>
+              <option value="3344" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3345" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
