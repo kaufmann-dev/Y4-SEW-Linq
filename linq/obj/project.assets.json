@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\David\\.nuget\\packages\\": {}
+    "C:\\Users\\serbi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\David\\Documents\\School projects\\linq\\linq\\linq.csproj",
+      "projectUniqueName": "C:\\Users\\serbi\\Documents\\School projects\\linq\\linq\\linq.csproj",
       "projectName": "linq",
-      "projectPath": "C:\\Users\\David\\Documents\\School projects\\linq\\linq\\linq.csproj",
-      "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\David\\Documents\\School projects\\linq\\linq\\obj\\",
+      "projectPath": "C:\\Users\\serbi\\Documents\\School projects\\linq\\linq\\linq.csproj",
+      "packagesPath": "C:\\Users\\serbi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\serbi\\Documents\\School projects\\linq\\linq\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\serbi\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
