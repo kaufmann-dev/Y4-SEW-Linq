@@ -1,4 +1,6 @@
-﻿namespace linq.data
+﻿using linq.data;
+
+namespace linq.Data
 {
     public class Trader
     {

@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
-using System.Transactions;
+using linq.data;
 
-namespace linq.data
+namespace linq.Data
 {
     public class DataRepository {
         public static List<Dish> CreateDishes() {

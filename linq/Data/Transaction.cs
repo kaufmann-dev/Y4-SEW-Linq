@@ -1,4 +1,4 @@
-﻿namespace linq.data
+﻿namespace linq.Data
 {
     public class Transaction
     {

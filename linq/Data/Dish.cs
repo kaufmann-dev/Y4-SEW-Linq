@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
+using linq.data;
 
-namespace linq.data
+namespace linq.Data
 {
     public class Dish {
 
