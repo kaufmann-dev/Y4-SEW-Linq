@@ -24,8 +24,16 @@ namespace linq.unittest
         public void getDishByCalories() {
             List<Dish> dishes = DataRepository.CreateDishes();
 
-            var query = from d in dishes where d.Calories < 400 select d;
-            Assert.AreEqual(2, query.Count());
+            // Query Syntax
+            var queryQ = from d in dishes where d.Calories < 400 select d.Name;
+            
+            // Method Syntax
+            var queryM = dishes
+                .Where(d => d.Calories < 400)
+                .Select(d => d.Name);
+            
+            Assert.AreEqual(2, queryQ.Count());
+            Assert.That(queryM.Count(), Is.EqualTo(2));
         }
 
         /*
